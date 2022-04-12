@@ -17,7 +17,7 @@ The project is a simple frontend implementation of Google serch, Google Image Se
 
 ## :framed_picture: Collection
 
-<img src="colection/google_search.png" width="400"> <img src="colection/google_image_search.png" width="400"> <img src="colection/google_advanced_search.png" width="400"> 
+<img src="collection/google_search.png" width="400"> <img src="collection/google_image_search.png" width="400"> <img src="collection/google_advanced_search.png" width="400"> 
 
 
 
